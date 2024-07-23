@@ -55,13 +55,9 @@ We welcome any contribution!
 
 Contacts:
 
-<div id="socials" align="center">
 [Danila]
 [kl3vtsov@mail.ru](mailto:kl3vtsov@mail.ru)
-<a href="https://t.me/firstdray">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-</a>
-</div>
+<a href="https://t.me/firstdray"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/></a>
 
 Thanks:
 
