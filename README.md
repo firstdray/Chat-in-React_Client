@@ -9,6 +9,9 @@ Functions:
 * Create and send messages, as well as emojis.
 
 Demo: [Chat in React](https://master--fabulous-brigadeiros-53d3e3.netlify.app )
+     <div>
+       <img src="https://github.com/firstdray/Chat-in-React_Client/blob/master/demo_chat.png">
+     </div>
 
 Installation:
 
@@ -60,9 +63,9 @@ Contacts:
 
 Thanks:
 
-* [React](https://react.dev/)
+<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="react" width="40" height="40"/></a>&nbsp;
+<a href="https://socket.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" title="socket.io" width="40" height="40"/></a>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="nodejs" width="40" height="40"/>&nbsp;
 * emoji-picker-react
 * nodemon
 * cors
-* [socket.io](https://socket.io/)
-* [node.js](https://nodejs.org)
