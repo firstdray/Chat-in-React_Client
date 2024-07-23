@@ -14,6 +14,7 @@ Installation:
 
 1. Clone the repository:
 git clone https://github.com/firstdray/Chat-in-React_Client/tree/master
+
 git clone https://github.com/firstdray/chat-in-React-server
 
 
