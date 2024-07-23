@@ -53,7 +53,7 @@ We welcome any contribution!
 * New features
 * Documentation
 
-##Contacts:
+Contacts:
 
  * [Danila]
  * [kl3vtsov@mail.ru](mailto:kl3vtsov@mail.ru)
