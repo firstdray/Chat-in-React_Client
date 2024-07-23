@@ -13,9 +13,8 @@ Demo: [Chat in React](https://master--fabulous-brigadeiros-53d3e3.netlify.app )
 Installation:
 
 1. Clone the repository:
-git clone https://github.com/firstdray/Chat-in-React_Client/tree/master
-
-git clone https://github.com/firstdray/chat-in-React-server
+  * git clone https://github.com/firstdray/Chat-in-React_Client/tree/master
+  * git clone https://github.com/firstdray/chat-in-React-server
 
 
 3. Go to the project directory:
