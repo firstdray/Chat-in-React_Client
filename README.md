@@ -18,30 +18,29 @@ Installation:
 
 
 3. Go to the project directory:
-cd client
+ * cd client
 
 
 4. Install dependencies:
-npm install
+ * npm install
 
 
 5. Start the development server:
-npm start
+ * npm start
 
 6. Navigate to the
-cd server directory
+ * cd server directory
 
 7. Install dependencies:
-npm install
+ * npm install
 
 
 8. Start the development server:
-npm run dev
+ * npm run dev
 
 Using:
 
-1. Open a web browser and navigate to
-http://localhost:3000
+1. Open a web browser and navigate to http://localhost:3000
 2. Enter the user name.
 3. Enter the name of the chat room.
 4. Enter the message in the input field and press Enter to send.
@@ -57,8 +56,12 @@ We welcome any contribution!
 Contacts:
 
 [Danila]
-[kl3vtsov@mail.ru]
-[https://t.me/firstdray]
+[kl3vtsov@mail.ru](mailto:kl3vtsov@mail.ru)
+<div id="socials" align="center">
+<a href="https://t.me/firstdray">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+</a>
+</div>
 
 Thanks:
 
